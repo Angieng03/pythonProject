@@ -44,5 +44,3 @@ print(country)
 plt.bar(country, array)
 plt.show()
 
-print("Gittopycharm")
-print("pycharmtogit")
